@@ -14,8 +14,8 @@ const initialState = {
         image: 'avatar2.jpg',
     },
     {
-        username: 'sara',
-        password: '0000',
+        username: '006789',
+        password: '4444',
         name: 'سارا',
         lastName: 'رنجبر',
         role: 'کاربر عادی',
